@@ -113,10 +113,40 @@ xelatex main.tex   # второй проход для ссылок
 
 ## Состав команды
 
-- Беспалов Александр Михайлович
-- Муравья Никита Романович
+<div align="center">
 
-**Куратор:** Поправка Иван Сергеевич
+<p><strong>Участники</strong></p>
+
+<table>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/Alexander2184">
+        <img src="https://img.shields.io/badge/Александр-@Alexander2184-1f4e79?style=flat-square&logo=github&logoColor=white" alt="Александр">
+      </a>
+      <br><br>
+      <sub>Беспалов Александр Михайлович</sub>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/SikioN">
+        <img src="https://img.shields.io/badge/Никита-@SikioN-1f4e79?style=flat-square&logo=github&logoColor=white" alt="Никита">
+      </a>
+      <br><br>
+      <sub>Муравья Никита Романович</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p><strong>Куратор</strong></p>
+
+<a href="https://github.com/Povladarchik">
+  <img src="https://img.shields.io/badge/Иван-@Povladarchik-008080?style=flat-square&logo=github&logoColor=white" alt="Иван">
+</a>
+<br><br>
+<sub>Поправка Иван Сергеевич</sub>
+
+</div>
 
 ---
 
