@@ -9,6 +9,31 @@
 
 ---
 
+## Видео
+
+<div align="center">
+
+<video
+  src="https://github.com/Povladarchik/jl-psevdoevklid/raw/main/video/JLVideo.mp4"
+  controls
+  muted
+  width="720">
+  Ваш браузер не воспроизводит встроенное видео —
+  <a href="https://github.com/Povladarchik/jl-psevdoevklid/raw/main/video/JLVideo.mp4">скачать ролик</a>.
+</video>
+
+<br><br>
+
+<sub>
+  Сценарий: <a href="video/script.md"><code>video/script.md</code></a>
+  &nbsp;·&nbsp;
+  Анимация (Manim): <a href="video/manim_jl.py"><code>video/manim_jl.py</code></a>
+</sub>
+
+</div>
+
+---
+
 ## Мотивация
 
 В евклидовом случае лемма JL утверждает, что $N$ точек можно вложить в размерность
